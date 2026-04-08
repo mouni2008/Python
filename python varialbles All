@@ -1,0 +1,176 @@
+
+x = 10
+print(x)
+
+x = 25 
+print(x)
+
+x = 100 
+print(x)
+
+A = 5.5
+print(A)
+
+A= -10
+print(A)
+
+Z = 0
+print(Z)
+
+name = "Hello"
+print(name)
+
+name = "python"
+print(name)
+
+name = " AI"
+print(name)
+
+name = "data"
+print(name)
+
+is_pass = True 
+print(is_pass)
+
+is_fail = False
+print(is_fail)
+
+x=10
+print(type(x))
+
+x=5.8
+print(type(x))
+
+x= "mounika"
+print(type(x))
+
+x=True
+print(type(x))
+
+x =10
+y = 20
+print(x,y)
+
+a=30
+b=40
+print(a,b)
+
+a = "hello"
+b = "world"
+print(a,b)
+
+a = "hello world"
+print(a)
+
+x = "AI"
+y = "Engineering"
+print(x,y)
+
+a=30
+b=20
+print(a+b)
+
+x = 50
+y = 20
+z = x+y
+print(z)
+
+a=30
+b=30
+c=10
+d=20
+print(a+b+c+d)
+
+a = 100
+b = 10
+print(a+b)
+
+x=100
+b=30
+print(x+b)
+
+a ="10"
+b ="20"
+print(a+b)
+
+x="30"
+y="50"
+print(x+y)
+
+x="Hello"
+y="AI"
+print(x+y)
+
+a="Data"
+b="Science"
+print(a+b)
+
+x=5
+print(x)
+
+a=10.0
+print(a)
+
+x=20
+print(x)
+
+a=1
+print(a)
+
+c=-5
+print(c)
+
+name="mounika"
+print("name:",name)
+
+Age=20
+print("Age:",Age)
+
+marks=80
+print("marks:",marks)
+
+if_pass = True
+print("pass:",if_pass)
+
+a="mounika"
+b=10
+print(type(a),type(b))
+
+a=45
+b=6.78
+print(type(a),type(b))
+
+a=True
+b="mounika"
+print(type(a),type(b))
+
+a="Hello"
+b=20
+print(a,b)
+
+x="Python"
+y=100
+print(x,y)
+
+a="AI"
+b=50
+print(a,b)
+
+a=100
+b=100
+print(a+b)
+
+a=200
+b=100
+print(a+b)
+
+x=300
+y=100
+print(x+y)
+
+a=500
+print(a)
+
+b=600
+print(b)
+
